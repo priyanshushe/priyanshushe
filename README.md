@@ -1,11 +1,15 @@
-👋 Hey, I’m Priyanshu Shekhar
-💻 Aspiring Full Stack Developer | Problem Solver | Lifelong Learner  
-🌱 Currently learning **DSA** and **Full Stack Web Development**  
-⚙️ Tech stack I’m exploring: **JavaScript, React, Node.js, Express, MongoDB**  
-🎯 Focused on writing clean, efficient, and maintainable code  
-😄 Pronouns: He/Him
+# 👋 Hi, I'm Priyanshu Shekhar
 
-<!---
-priyanshushe/priyanshushe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer currently focused on mastering **Data Structures & Algorithms** and **Full Stack Web Development**.  
+I enjoy solving real-world problems through code and building scalable web solutions.
+
+## 💻 What I’m learning
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Node.js, Express.js, MongoDB  
+- Programming: Java, C++ for DSA  
+
+## 🚀 Goals
+- Strengthen problem-solving and system design skills  
+- Build impactful open-source and personal projects  
+
+😄 Pronouns: He/Him  
