@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanshu Shekhar
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning DSA full stack web development.
 - 😄 he/him
 
 <!---
