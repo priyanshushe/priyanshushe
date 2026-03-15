@@ -5,7 +5,7 @@ I enjoy solving real-world problems through code and building scalable web solut
 
 ## 💻 What I’m learning
 - Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express.js, MongoDB  
+- Learning cloud computing and building things along the way.  
 - Programming: Java, C++ for DSA  
 
 ## 🚀 Goals
