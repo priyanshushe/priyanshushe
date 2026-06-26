@@ -16,6 +16,14 @@ Passionate Developer | DSA Enthusiast | Frontend Developer | Cloud Learner
 
 ---
 
+## 🌐 Portfolio
+
+🚀 Check out my personal portfolio website where I showcase my projects, skills, and development journey.
+
+🔗 [Visit Portfolio](YOUR_PORTFOLIO_LINK)
+
+---
+
 ## 🌱 Currently Learning
 
 - Frontend Development: HTML, CSS, JavaScript, React
