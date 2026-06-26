@@ -1,6 +1,6 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshushe/priyanshushe/main/banner.png" alt="Banner" /></p>" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/priyanshushe/priyanshushe/main/banner.png"</p>" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Priyanshu Shekhar</h1>
